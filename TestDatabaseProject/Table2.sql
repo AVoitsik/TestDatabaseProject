@@ -2,6 +2,6 @@
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
     [tets] NCHAR(10) NULL, 
-    [user2] NCHAR(10) NULL,
-	[test1] NTEXT NULL
+    [user3] NCHAR(10) NULL,
+	[test5] NTEXT NULL
 )
