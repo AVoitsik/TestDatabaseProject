@@ -7,4 +7,18 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="ddd" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="d67a59c6-a75d-4854-819e-39a9ab21cd21" ChangeDateTime="04/12/2020 13:38:49">
+    <Property Name="ElementName" Value="[dbo].[Table1].[qwqw]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="five" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="afb94f75-5ad5-45f5-aea3-d505f91cfadc" ChangeDateTime="04/12/2020 13:39:07">
+    <Property Name="ElementName" Value="[dbo].[Table2].[test5]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table2]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="four" />
+  </Operation>
 </Operations>
